@@ -1,2 +1,2 @@
-# Hotel-Landing-pafe
+# Hotel-Landing-page
 RIUHotel Landing page
